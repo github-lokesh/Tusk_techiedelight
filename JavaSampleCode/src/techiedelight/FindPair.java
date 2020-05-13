@@ -1,5 +1,5 @@
 package techiedelight;
-
+//comment
 public class FindPair {
 
 	public static void findpair(int[] a,int sum){
